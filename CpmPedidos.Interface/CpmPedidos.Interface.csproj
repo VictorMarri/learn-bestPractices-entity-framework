@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CpmPedidos.Domain\CpmPedidos.Domain.csproj" />
   </ItemGroup>
 
