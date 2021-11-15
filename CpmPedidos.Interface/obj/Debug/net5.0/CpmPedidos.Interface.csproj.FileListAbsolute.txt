@@ -1,0 +1,15 @@
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Interface.deps.json
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Interface.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\ref\CpmPedidos.Interface.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Interface.pdb
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Domain.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\bin\Debug\net5.0\CpmPedidos.Domain.pdb
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.AssemblyInfo.cs
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.csproj.CopyComplete
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\ref\CpmPedidos.Interface.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Interface\obj\Debug\net5.0\CpmPedidos.Interface.pdb

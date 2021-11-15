@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\bin\Debug\net5.0\CpmPedidos.Domain.deps.json
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\bin\Debug\net5.0\CpmPedidos.Domain.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\bin\Debug\net5.0\ref\CpmPedidos.Domain.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\bin\Debug\net5.0\CpmPedidos.Domain.pdb
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.AssemblyInfo.cs
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\ref\CpmPedidos.Domain.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.pdb
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CpmPedidos.Domain\CpmPedidos.Domain.csproj" />
+    <ProjectReference Include="..\CpmPedidos.Interface\CpmPedidos.Interface.csproj" />
+    <ProjectReference Include="..\CpmPedidos.Repository\CpmPedidos.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
