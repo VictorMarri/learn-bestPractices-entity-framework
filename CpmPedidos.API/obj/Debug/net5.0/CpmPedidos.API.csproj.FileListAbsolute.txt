@@ -37,3 +37,7 @@ C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\Cpm
 C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\ref\CpmPedidos.API.dll
 C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.pdb
 C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.API\obj\Debug\net5.0\CpmPedidos.API.genruntimeconfig.cache
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

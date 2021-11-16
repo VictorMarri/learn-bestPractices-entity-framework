@@ -10,6 +10,8 @@ namespace CpmPedidos.Repository.Repositories
     {
         protected readonly ApplicationDbContext _dbContext;
 
+        protected const int TamanhoPagina = 5;
+
         public BaseRepository(ApplicationDbContext dbContext)
         {
             _dbContext = dbContext;
