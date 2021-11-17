@@ -7,12 +7,8 @@ using System.Threading.Tasks;
 
 namespace CpmPedidos.Interface.Repositories
 {
-    public interface IProdutoRepository
+    public interface IPedidoRepository
     {
-        dynamic Get();
-        dynamic Search(string text, int pagina);
-        dynamic Detail(int id);
-
-        dynamic Imagens(int id);
+        decimal TicketMaximo();
     }
 }

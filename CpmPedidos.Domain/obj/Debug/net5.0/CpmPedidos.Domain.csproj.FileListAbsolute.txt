@@ -9,4 +9,3 @@ C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\
 C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.dll
 C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\ref\CpmPedidos.Domain.dll
 C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.pdb
-C:\Users\victo\source\repos\udemy\CpmPedidos\CpmPedidos.Domain\obj\Debug\net5.0\CpmPedidos.Domain.csproj.AssemblyReference.cache

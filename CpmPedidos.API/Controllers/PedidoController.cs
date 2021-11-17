@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CpmPedidos.Domain.Entities;
+using CpmPedidos.Interface.Repositories;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,8 +12,18 @@ namespace CpmPedidos.API.Controllers
     [Route("[controller]")]
     public class PedidoController : AppBaseController
     {
-        public PedidoController(IServiceProvider serviceProvider):base(serviceProvider)
+        public PedidoController(IServiceProvider serviceProvider) : base(serviceProvider)
         {
         }
+
+        [HttpGet]
+        [Route("ticket-maximo")]
+        public decimal TicketMaximo()
+        {
+            var repositorio = (IPedidoRepository)_serviceProvider.GetService(typeof(IPedidoRepository));
+
+            return repositorio.TicketMaximo();
+        }
+
     }
 }
