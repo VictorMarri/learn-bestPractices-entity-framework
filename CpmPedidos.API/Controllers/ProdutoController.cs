@@ -17,20 +17,20 @@ namespace CpmPedidos.API.Controllers
         }
 
         [HttpGet]
-        public dynamic Get()
+        public dynamic Get([FromQuery] string ordem = "")
         {
             var repositorio = (IProdutoRepository)_serviceProvider.GetService(typeof(IProdutoRepository));
 
-            return repositorio.Get();
+            return repositorio.Get(ordem);
         }
 
         [HttpGet]
         [Route("search/{text}/{pagina?}")]
-        public dynamic GetSearch(string text, int pagina =1)
+        public dynamic GetSearch(string text, int pagina = 1, [FromQuery] string ordem = "")
         {
             var repositorio = (IProdutoRepository)_serviceProvider.GetService(typeof(IProdutoRepository));
 
-            return repositorio.Search(text, pagina);
+            return repositorio.Search(text, pagina, ordem);
         }
 
         [HttpGet]

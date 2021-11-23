@@ -25,5 +25,14 @@ namespace CpmPedidos.API.Controllers
             return repositorio.TicketMaximo();
         }
 
+        [HttpGet]
+        [Route("por-cliente")]
+        public dynamic PedidosClientes()
+        {
+            var repositorio = (IPedidoRepository)_serviceProvider.GetService(typeof(IPedidoRepository));
+
+            return repositorio.PedidosClientes();
+        }
+
     }
 }

@@ -24,5 +24,23 @@ namespace CpmPedidos.Repository.Repositories
                 .Where(x => x.CriadoEm.Date == hoje)
                 .Max(x => (decimal?)x.ValorTotal) ?? 0;
         }
+
+        public dynamic PedidosClientes()
+        {
+            var hoje = DateTime.Today;
+            var inicioMes = new DateTime(hoje.Year, hoje.Month, 1);
+            var finalMes = new DateTime(hoje.Year, hoje.Month, DateTime.DaysInMonth(hoje.Year, hoje.Month));
+
+            return _dbContext.Pedidos
+                .Where(x => x.CriadoEm.Date >= inicioMes && x.CriadoEm.Date <= finalMes)
+                .GroupBy(pedido => new { pedido.IdCliente, pedido.Cliente.Nome })
+                .Select(x => new
+                {
+                    Cliente = x.Key.Nome,
+                    Pedidos = x.Count(),
+                    Total = x.Sum(x => x.ValorTotal)
+                })
+                .ToList();
+        }
     }
 }
